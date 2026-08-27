@@ -1,4 +1,5 @@
-How to Run on Ubuntu Terminal1. *Clone the repository:*
+How to Run on Ubuntu Terminal
+1. *Clone the repository:*
    git clone git@github.com:YOUR-USERNAME/YOUR-REPO-NAME.git
    cd YOUR-REPO-NAME
 2. *Compile the source files:*
